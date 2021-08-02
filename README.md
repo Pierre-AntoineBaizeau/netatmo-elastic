@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Lints and fixes files
+### Node
 ```
 you also need node and do a node server
 ```
