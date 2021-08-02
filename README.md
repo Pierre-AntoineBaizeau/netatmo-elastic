@@ -20,5 +20,9 @@ npm run build
 npm run lint
 ```
 
+### Lints and fixes files
+```
+you also need node and do a node server
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,0 +1,1114 @@
+ [
+        {        
+            "attribute_set_id": 15,
+            "created_at": "2021-06-22 11:21:23",
+            "updated_at": "2021-06-22 11:21:23",
+            "type_id": "simple",
+            "sku": "24-WB04",
+            "id": 14,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/w/b/wb04-blue-0.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>The name says so, but the Push It Messenger Bag is much more than a busy commuter's tote. It's a closet away from home when you're pedaling from class or work to gym and back or home again. It's the perfect size and shape for laptop, folded clothes, even extra shoes.</p>\n<ul>\n<li>Adjustable crossbody strap.</li>\n<li>Top handle.</li>\n<li>Zippered interior pocket.</li>\n<li>Secure clip closures.</li>\n<li>Durable fabric construction.</li>\n</ul>",
+            "name": "Push It Messenger Bag",
+            "image": "/w/b/wb04-blue-0.jpg",
+            "small_image": "/w/b/wb04-blue-0.jpg",
+            "thumbnail": "/w/b/wb04-blue-0.jpg",
+            "url_key": "push-it-messenger-bag-14",
+            "price": 45,
+            "status": 1,
+            "visibility": 4,
+            "tax_class_id": 2,
+            "slug": "push-it-messenger-bag-14",
+            "url_path": "push-it-messenger-bag.html",
+            "category": [
+              {
+                "category_id": 3,
+                "name": "Gear",
+                "position": 0
+              },
+              {
+                "category_id": 4,
+                "name": "Bags",
+                "position": 0
+              },
+              {
+                "category_id": 7,
+                "name": "Collections",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              3,
+              4,
+              7
+            ],
+            "final_price": 45,
+            "regular_price": 45,
+            "product_links": [
+              {
+                "sku": "24-WB04",
+                "link_type": "upsell",
+                "linked_product_sku": "24-MB02",
+                "linked_product_type": "simple",
+                "position": 1
+              },
+              {
+                "sku": "24-WB04",
+                "link_type": "upsell",
+                "linked_product_sku": "24-UB02",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-WB04",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-UG06",
+                "linked_product_type": "simple",
+                "position": 4
+              },
+              {
+                "sku": "24-WB04",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-UG02",
+                "linked_product_type": "simple",
+                "position": 3
+              },
+              {
+                "sku": "24-WB04",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-UG05",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-WB04",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG082-pink",
+                "linked_product_type": "simple",
+                "position": 1
+              }
+            ],
+            "stock": {
+              "product_id": 14,
+              "item_id": 14,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 45,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 45,
+            "original_final_price": 45,
+            "price_tax": 0,
+            "price_incl_tax": 45,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 45,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+         
+            "attribute_set_id": 11,
+            "created_at": "2021-06-22 11:21:49",
+            "updated_at": "2021-06-22 11:21:49",
+            "type_id": "simple",
+            "sku": "24-UG05",
+            "id": 19,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/u/g/ug05-gr-0.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>The Go-Get'r Pushup Grips safely provide the extra range of motion you need for a deep-dip routine targeting core, shoulder, chest and arm strength. Do fewer pushups using more energy, getting better results faster than the standard floor-level technique yield.</p>\n<ul>\n<li>Durable foam grips.</li>\n<li>Supportive base.</li>\n</ul>",
+            "name": "Go-Get'r Pushup Grips",
+            "image": "/u/g/ug05-gr-0.jpg",
+            "small_image": "/u/g/ug05-gr-0.jpg",
+            "thumbnail": "/u/g/ug05-gr-0.jpg",
+            "url_key": "go-getr-pushup-grips-19",
+            "price": 19,
+            "status": 1,
+            "visibility": 4,
+            "tax_class_id": 2,
+            "slug": "go-getr-pushup-grips-19",
+            "url_path": "go-get-r-pushup-grips.html",
+            "category": [
+              {
+                "category_id": 3,
+                "name": "Gear",
+                "position": 0
+              },
+              {
+                "category_id": 5,
+                "name": "Fitness Equipment",
+                "position": 0
+              },
+              {
+                "category_id": 7,
+                "name": "Collections",
+                "position": 0
+              },
+              {
+                "category_id": 8,
+                "name": "New Luma Yoga Collection",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              3,
+              5,
+              7,
+              8
+            ],
+            "final_price": 19,
+            "regular_price": 19,
+            "product_links": [
+              {
+                "sku": "24-UG05",
+                "link_type": "related",
+                "linked_product_sku": "24-WG084",
+                "linked_product_type": "simple",
+                "position": 3
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "related",
+                "linked_product_sku": "24-WG081-gray",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "related",
+                "linked_product_sku": "24-WG083-blue",
+                "linked_product_type": "simple",
+                "position": 4
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "related",
+                "linked_product_sku": "24-WG080",
+                "linked_product_type": "bundle",
+                "position": 1
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-UG01",
+                "linked_product_type": "simple",
+                "position": 1
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG084",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG086",
+                "linked_product_type": "simple",
+                "position": 3
+              },
+              {
+                "sku": "24-UG05",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG080",
+                "linked_product_type": "bundle",
+                "position": 4
+              }
+            ],
+            "stock": {
+              "product_id": 19,
+              "item_id": 19,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 19,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 19,
+            "original_final_price": 19,
+            "price_tax": 0,
+            "price_incl_tax": 19,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 19,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 12,
+            "created_at": "2021-06-22 11:22:06",
+            "updated_at": "2021-06-22 11:22:06",
+            "type_id": "simple",
+            "sku": "24-WG081-gray",
+            "id": 24,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/l/u/luma-stability-ball-gray.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>The Sprite Stasis Ball gives you the toned abs, sides, and back you want by amping up your core workout. With bright colors and a burst-resistant design, it's a must-have for every hard-core exercise addict. Use for abdominal conditioning, balance training, yoga, or even physical therapy.</p>\n<ul>\n<li>Durable, burst-resistant design.</li>\n<li>Hand pump included.</li>\n</ul>",
+            "name": "Sprite Stasis Ball 55 cm",
+            "image": "/l/u/luma-stability-ball-gray.jpg",
+            "small_image": "/l/u/luma-stability-ball-gray.jpg",
+            "thumbnail": "/l/u/luma-stability-ball-gray.jpg",
+            "url_key": "sprite-stasis-ball-55-cm-24",
+            "price": 23,
+            "status": 1,
+            "visibility": 1,
+            "tax_class_id": 2,
+            "slug": "sprite-stasis-ball-55-cm-24",
+            "category": [
+              {
+                "category_id": 3,
+                "name": "Gear",
+                "position": 0
+              },
+              {
+                "category_id": 5,
+                "name": "Fitness Equipment",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              3,
+              5
+            ],
+            "final_price": 23,
+            "regular_price": 23,
+            "product_links": [
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "related",
+                "linked_product_sku": "24-UG01",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "related",
+                "linked_product_sku": "24-UG03",
+                "linked_product_type": "simple",
+                "position": 3
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "related",
+                "linked_product_sku": "24-WG087",
+                "linked_product_type": "simple",
+                "position": 4
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "related",
+                "linked_product_sku": "24-WG085_Group",
+                "linked_product_type": "grouped",
+                "position": 1
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-UG05",
+                "linked_product_type": "simple",
+                "position": 4
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG088",
+                "linked_product_type": "simple",
+                "position": 2
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG086",
+                "linked_product_type": "simple",
+                "position": 3
+              },
+              {
+                "sku": "24-WG081-gray",
+                "link_type": "crosssell",
+                "linked_product_sku": "24-WG085_Group",
+                "linked_product_type": "grouped",
+                "position": 1
+              }
+            ],
+            "stock": {
+              "product_id": 24,
+              "item_id": 24,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 23,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 23,
+            "original_final_price": 23,
+            "price_tax": 0,
+            "price_incl_tax": 23,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 23,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+         
+            "attribute_set_id": 12,
+            "created_at": "2021-06-22 11:22:09",
+            "updated_at": "2021-06-22 11:22:09",
+            "type_id": "simple",
+            "sku": "24-WG081-pink",
+            "id": 25,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/l/u/luma-stability-ball-pink.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>The Sprite Stasis Ball gives you the toned abs, sides, and back you want by amping up your core workout. With bright colors and a burst-resistant design, it's a must-have for every hard-core exercise addict. Use for abdominal conditioning, balance training, yoga, or even physical therapy.</p>\n<ul>\n<li>Durable, burst-resistant design.</li>\n<li>Hand pump included.</li>\n</ul>",
+            "name": "Sprite Stasis Ball 55 cm",
+            "image": "/l/u/luma-stability-ball-pink.jpg",
+            "small_image": "/l/u/luma-stability-ball-pink.jpg",
+            "thumbnail": "/l/u/luma-stability-ball-pink.jpg",
+            "url_key": "sprite-stasis-ball-55-cm-25",
+            "price": 23,
+            "status": 1,
+            "visibility": 1,
+            "tax_class_id": 2,
+            "slug": "sprite-stasis-ball-55-cm-25",
+            "category": [
+              {
+                "category_id": 3,
+                "name": "Gear",
+                "position": 0
+              },
+              {
+                "category_id": 5,
+                "name": "Fitness Equipment",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              3,
+              5
+            ],
+            "final_price": 23,
+            "regular_price": 23,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 25,
+              "item_id": 25,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 23,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 23,
+            "original_final_price": 23,
+            "price_tax": 0,
+            "price_incl_tax": 23,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 23,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 11,
+            "created_at": "2021-06-22 11:23:21",
+            "updated_at": "2021-06-22 11:23:21",
+            "type_id": "simple",
+            "sku": "24-MG02",
+            "id": 40,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/m/g/mg02-bk-0.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>The Dash Digital Watch will challenge you to push harder and longer. Log workouts by date, average, and segment times, and recharge by setting hydration and nutrition alarms. This watch is styled with a sleek, square face and durable rubber strap for a long life.</p>\n<ul>\n<li>Digital display.</li>\n<li>LED backlight.</li>\n<li>Rubber strap with buckle clasp.</li>\n<li>1-year limited warranty.</li>",
+            "name": "Dash Digital Watch",
+            "image": "/m/g/mg02-bk-0.jpg",
+            "small_image": "/m/g/mg02-bk-0.jpg",
+            "thumbnail": "/m/g/mg02-bk-0.jpg",
+            "url_key": "dash-digital-watch-40",
+            "price": 92,
+            "status": 1,
+            "visibility": 4,
+            "tax_class_id": 2,
+            "slug": "dash-digital-watch-40",
+            "url_path": "dash-digital-watch.html",
+            "category": [
+              {
+                "category_id": 3,
+                "name": "Gear",
+                "position": 0
+              },
+              {
+                "category_id": 6,
+                "name": "Watches",
+                "position": 0
+              },
+              {
+                "category_id": 7,
+                "name": "Collections",
+                "position": 0
+              },
+              {
+                "category_id": 8,
+                "name": "New Luma Yoga Collection",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              3,
+              6,
+              7,
+              8
+            ],
+            "final_price": 92,
+            "regular_price": 92,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 40,
+              "item_id": 40,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 92,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 92,
+            "original_final_price": 92,
+            "price_tax": 0,
+            "price_incl_tax": 92,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 92,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+         
+            "attribute_set_id": 14,
+            "created_at": "2021-06-22 11:39:05",
+            "updated_at": "2021-06-22 11:39:05",
+            "type_id": "downloadable",
+            "sku": "240-LV05",
+            "id": 48,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/l/t/lt02.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<p>Luma LifeLong Fitness Series is a world recognized, evidence based exercise program designed specifically for individuals focused on staying active their whole lives. If followed regularly, participants will see improved heart rate and blood pressure, increased mobility, reduced joint pain and overall improvement in functional fitness and health.</>\n<ul>\n<li>10 minute warm up.</li>\n<li>30 minutes of mild aerobics.</li>\n<li>20 minutes of strength, stretch and balance.</li>\n<li>Extensive modifications for varying fitness levels.</li>\n</ul>",
+            "name": "LifeLong Fitness IV",
+            "image": "/l/t/lt02.jpg",
+            "small_image": "/l/t/lt02.jpg",
+            "thumbnail": "/l/t/lt02.jpg",
+            "url_key": "lifelong-fitness-iv-48",
+            "price": 14,
+            "status": 1,
+            "visibility": 4,
+            "tax_class_id": 2,
+            "slug": "lifelong-fitness-iv-48",
+            "url_path": "lifelong-fitness-iv.html",
+            "category": [
+              {
+                "category_id": 9,
+                "name": "Training",
+                "position": 0
+              },
+              {
+                "category_id": 10,
+                "name": "Video Download",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              9,
+              10
+            ],
+            "final_price": 14,
+            "regular_price": 14,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 48,
+              "item_id": 48,
+              "stock_id": 1,
+              "qty": 0,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": false,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 14,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 14,
+            "original_final_price": 14,
+            "price_tax": 0,
+            "price_incl_tax": 14,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 14,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 14,
+            "created_at": "2021-06-22 11:39:18",
+            "updated_at": "2021-06-22 11:39:18",
+            "type_id": "downloadable",
+            "sku": "240-LV09",
+            "id": 52,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/l/t/lt06.jpg",
+                "lab": "Image",
+                "pos": 1
+              }
+            ],
+            "description": "<ul><li>Increase strength + flexibility + metabolism</li><li>Burn calories + feel great</li><li>Gain energy + youthfulness + mental wellness</li> </ul><h3 style=\"margin-top: 30px;\">Download description</h3><p><strong style=\"display: block; margin: 20px 0 5px;\">Tone up mind and body</strong>Pro Yoga Instructor and Master Practitioner Marie Peale helps tone and sculpt your physique with her invigorating yet gentle approach.</p><p>You'll learn to use yoga to relax, control stress and increase your calorie-burning capacity, all while exploring traditional and new yoga poses that lengthen and strengthen your full muscular structure.  </p><ul><li>Easy download</li><li>Audio options: Music and instruction or instruction only</li><li>Heart rate techniques explained</li><li>Breathing techniques explained</li><li>Move through exercises at your own pace</li></ul><p>Two 25-minute workout episodes and one 40-minute workout episode with warm-up and cool down:</p><p><strong style=\"display: block; margin: 20px 0 5px;\">Episode 1</strong>Creative, fun session geared toward opening your lungs. Combines stretching and breathing with a focus on hips and shoulders. </p><p><strong style=\"display: block; margin: 20px 0 5px;\">Episode 2</strong>Ramp up the tempo and energy with calorie-burning flows. A stimulating workout introducing the body-sculpting power of yoga.</p><p><strong style=\"display: block; margin: 20px 0 5px;\">Episode 3</strong>Push your fitness reach and stamina with an intense series of standing and floor exercises and poses. End this extra-length session with a meditative cool down.</p><h3 style=\"margin-top: 30px;\">instructor bio</h3><p><strong style=\"display: block; margin: 20px 0 5px;\">About Marie</strong>Marie is a trained martial artist and dancer with a BS in Biological Engineering and over 10 years as a certified yoga teacher. Marie has studied yoga in England, India and, in 2009, at the Ashraqat Ashram Yoga Farm in the United States. She has been teaching full time since then. Her focus on strength and wellness combines a deep knowledge of human biology and motivation guided by unconditional love for her audience.</p>",
+            "name": "Luma Yoga For Life",
+            "meta_description": "You'll learn to use yoga to relax, control stress and increase your calorie-burning capacity, all while exploring traditional and new yoga poses that lengthen and strengthen your full muscular structure.",
+            "image": "/l/t/lt06.jpg",
+            "small_image": "/l/t/lt06.jpg",
+            "thumbnail": "/l/t/lt06.jpg",
+            "url_key": "luma-yoga-for-life-52",
+            "price": 0,
+            "status": 1,
+            "visibility": 4,
+            "tax_class_id": 2,
+            "slug": "luma-yoga-for-life-52",
+            "url_path": "luma-yoga-for-life.html",
+            "category": [
+              {
+                "category_id": 9,
+                "name": "Training",
+                "position": 0
+              },
+              {
+                "category_id": 10,
+                "name": "Video Download",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              9,
+              10
+            ],
+            "final_price": 0,
+            "regular_price": 0,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 52,
+              "item_id": 52,
+              "stock_id": 1,
+              "qty": 0,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": false,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 0,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 0,
+            "price_tax": 0,
+            "price_incl_tax": 0,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 9,
+            "created_at": "2021-06-22 11:42:26",
+            "updated_at": "2021-06-22 11:42:26",
+            "type_id": "simple",
+            "sku": "MH01-S-Black",
+            "id": 2050,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/m/h/mh01-black_main_2.jpg",
+                "lab": "",
+                "pos": 1
+              }
+            ],
+            "description": "<p>Ideal for cold-weather training or work outdoors, the Chaz Hoodie promises superior warmth with every wear. Thick material blocks out the wind as ribbed cuffs and bottom band seal in body heat.</p>\n<p>&bull; Two-tone gray heather hoodie.<br />&bull; Drawstring-adjustable hood. <br />&bull; Machine wash/dry.</p>",
+            "name": "Chaz Kangeroo Hoodie-S-Black",
+            "image": "/m/h/mh01-black_main_2.jpg",
+            "small_image": "/m/h/mh01-black_main_2.jpg",
+            "thumbnail": "/m/h/mh01-black_main_2.jpg",
+            "url_key": "chaz-kangeroo-hoodie-s-black-2050",
+            "price": 52,
+            "status": 1,
+            "visibility": 1,
+            "tax_class_id": 2,
+            "slug": "chaz-kangeroo-hoodie-s-black-2050",
+            "category": [
+              {
+                "category_id": 2,
+                "name": "Default Category",
+                "position": 0
+              },
+              {
+                "category_id": 41,
+                "name": "Hoodies & Sweatshirts",
+                "position": 0
+              },
+              {
+                "category_id": 62,
+                "name": "Eco Friendly",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              2,
+              41,
+              62
+            ],
+            "final_price": 52,
+            "regular_price": 52,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 2050,
+              "item_id": 1156,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 52,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 52,
+            "original_final_price": 52,
+            "price_tax": 0,
+            "price_incl_tax": 52,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 52,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 9,
+            "created_at": "2021-06-22 11:42:26",
+            "updated_at": "2021-06-22 11:42:26",
+            "type_id": "simple",
+            "sku": "MH02-XL-Red",
+            "id": 2077,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/m/h/mh02-red_main_2.jpg",
+                "lab": "",
+                "pos": 1
+              }
+            ],
+            "description": "<p>This Teton Pullover Hoodie gives you more than laid-back style. It's equipped with moisture-wicking fabric to keep light and dry inside, especially in chilly-weather workouts. An elasticized hem lets you move about freely.</p>\n<p>&bull; Black pullover hoodie.<br />&bull; Soft, brushed interior. <br />&bull; Front hand pockets. <br />&bull; Machine wash/dry.</p>",
+            "name": "Teton Pullover Hoodie-XL-Red",
+            "image": "/m/h/mh02-red_main_2.jpg",
+            "small_image": "/m/h/mh02-red_main_2.jpg",
+            "thumbnail": "/m/h/mh02-red_main_2.jpg",
+            "url_key": "teton-pullover-hoodie-xl-red-2077",
+            "price": 70,
+            "status": 1,
+            "visibility": 1,
+            "tax_class_id": 2,
+            "slug": "teton-pullover-hoodie-xl-red-2077",
+            "category": [
+              {
+                "category_id": 41,
+                "name": "Hoodies & Sweatshirts",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              41
+            ],
+            "final_price": 70,
+            "regular_price": 70,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 2077,
+              "item_id": 1183,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 70,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 70,
+            "original_final_price": 70,
+            "price_tax": 0,
+            "price_incl_tax": 70,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 70,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        },
+        {
+          
+            "attribute_set_id": 9,
+            "created_at": "2021-06-22 11:42:26",
+            "updated_at": "2021-06-22 11:42:26",
+            "type_id": "simple",
+            "sku": "MH03-XS-Black",
+            "id": 2079,
+            "media_gallery": [
+              {
+                "typ": "image",
+                "image": "/m/h/mh03-black_main_2.jpg",
+                "lab": "",
+                "pos": 1
+              },
+              {
+                "typ": "image",
+                "image": "/m/h/mh03-black_alt1_2.jpg",
+                "lab": "",
+                "pos": 2
+              },
+              {
+                "typ": "image",
+                "image": "/m/h/mh03-black_back_2.jpg",
+                "lab": "",
+                "pos": 3
+              }
+            ],
+            "description": "<p>Stay comfortable and stay in the race no matter what the weather's up to. The Bruno Compete Hoodie's water-repellent exterior shields you from the elements, while advanced fabric technology inside wicks moisture to keep you dry.</p>\n<p>&bull; Full zip black hoodie pullover. <br />&bull; Adjustable drawstring hood. <br />&bull; Ribbed cuffs/waistband. <br />&bull; Kangaroo pocket. <br />&bull; Machine wash/dry.</p>",
+            "name": "Bruno Compete Hoodie-XS-Black",
+            "image": "/m/h/mh03-black_main_2.jpg",
+            "small_image": "/m/h/mh03-black_main_2.jpg",
+            "thumbnail": "/m/h/mh03-black_main_2.jpg",
+            "url_key": "bruno-compete-hoodie-xs-black-2079",
+            "price": 63,
+            "status": 1,
+            "visibility": 1,
+            "tax_class_id": 2,
+            "slug": "bruno-compete-hoodie-xs-black-2079",
+            "category": [
+              {
+                "category_id": 2,
+                "name": "Default Category",
+                "position": 0
+              },
+              {
+                "category_id": 41,
+                "name": "Hoodies & Sweatshirts",
+                "position": 0
+              },
+              {
+                "category_id": 62,
+                "name": "Eco Friendly",
+                "position": 0
+              }
+            ],
+            "category_ids": [
+              2,
+              41,
+              62
+            ],
+            "final_price": 63,
+            "regular_price": 63,
+            "product_links": [
+              
+            ],
+            "stock": {
+              "product_id": 2079,
+              "item_id": 1185,
+              "stock_id": 1,
+              "qty": 100,
+              "is_in_stock": true,
+              "is_qty_decimal": false,
+              "use_config_min_qty": true,
+              "min_qty": 0,
+              "use_config_min_sale_qty": true,
+              "min_sale_qty": 1,
+              "use_config_max_sale_qty": true,
+              "max_sale_qty": 10000,
+              "use_config_notify_stock_qty": true,
+              "notify_stock_qty": 1,
+              "use_config_qty_increments": true,
+              "backorders": false,
+              "use_config_backorders": true,
+              "qty_increments": 1,
+              "use_config_enable_qty_inc": true,
+              "enable_qty_increments": false,
+              "use_config_manage_stock": true,
+              "manage_stock": false,
+              "low_stock_date": null,
+              "stock_status": 1
+            },
+            "configurable_children": [
+              
+            ],
+            "tsk": 1624443315,
+            "original_price": 63,
+            "original_price_tax": 0,
+            "original_price_incl_tax": 63,
+            "original_final_price": 63,
+            "price_tax": 0,
+            "price_incl_tax": 63,
+            "final_price_tax": 0,
+            "final_price_incl_tax": 63,
+            "special_price": 0,
+            "special_price_tax": 0,
+            "special_price_incl_tax": 0
+          
+        }
+      ]
+    
